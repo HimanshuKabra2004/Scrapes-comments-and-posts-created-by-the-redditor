@@ -7,5 +7,5 @@ This script takes a Reddit user profile URL as input, scrapes their posts and co
 
 ## Requirements
 - Python 3.x
-- Libraries: requests, beautifulsoup4, pandas
+- Libraries: requests, json
 
